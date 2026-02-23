@@ -69,9 +69,9 @@ provider: Umweltbundesamt,AIT Center for Energy
 
 ### Levelized Cost of Energy, Market Value & Impact of Climate Change
 
-<p style="text-align: justify;"/> The evaluation of the levelized cost of energy (LCOE), market value (MV), and the impact of climate change was carried out as a post‑processing step following the potential assessment. 
+<p style="text-align: justify;"/> The evaluation of the levelized cost of energy (LCOE), market value (MV), and the impact of climate change was carried out as a post‑processing step following the assessment of generation potentials
 
-<p style="text-align: justify;"/> The indicated LCOE ranges are based on a site‑specific evaluation that incorporates both construction and operating costs, as well as location‑dependent yield characteristics. Assumptions regarding future cost developments rely on technology‑specific learning curves, international cost trends, and adjusted price and financing parameters. The MV assessment is derived from modeled annual and daily feed in profiles for each technology and reflects how their market value may evolve within the electricity system.
+<p style="text-align: justify;"/> The indicated LCOE ranges are based on a site‑specific evaluation that incorporates both construction and operating costs, as well as location‑dependent yield characteristics. Assumptions regarding future cost developments rely on technology‑specific learning curves, international cost trends, and adjusted price and financing parameters. The MV assessment is derived from modeled annual and daily feed in profiles and reflects how its market value may evolve within the electricity system.
 
 <p style="text-align: justify;"/> By combining cost and system perspectives, the results illustrate how the relationship between generation costs and potential market revenues may change over time. For renewable electricity technologies, this comparison between levelized generation costs and potentially achievable market revenues provides an initial indication of how their economic feasibility may develop under future framework conditions.
 
